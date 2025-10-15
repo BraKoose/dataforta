@@ -1,8 +1,8 @@
 * {
-  --primary-color: #DC2424;
+  --primary-color: #c40a9b;
   --primary-color-rgb: 220, 36, 36;
-  --secondary-color: #4A569D;
-  --primary-gradient: 45deg, var(--primary-color), var(--secondary-color);
+  --secondary-color: #030003;
+  --primary-gradient: 30deg, var(--primary-color), var(--secondary-color);
   --bg-dark-1: #111;
   --bg-dark-2: #222;
   --bg-dark-3: #333;  
